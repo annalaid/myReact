@@ -1,0 +1,19 @@
+#game-container {
+    margin: 1em auto;
+    width: 380px;
+}
+
+#equation {
+    font-size: 1.6em;
+    margin: auto;
+    width: 90%;
+} 
+
+#buttons button {
+    border-radius: .25em;
+    font-size: 3em;
+    height: 2em;
+    margin: .1em;
+    text-align: center;
+    width: 2em;
+}
